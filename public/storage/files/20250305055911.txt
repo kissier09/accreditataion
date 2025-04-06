@@ -1,0 +1,6 @@
+Deprecated: Illuminate\Support\Str::createUuidsUsing(): Implicitly marking parameter $factory as nullable is deprecated, the explicit nullable type must be used instead in C:\Users\ADMIN\Downloads\earist_accreditation\vendor\laravel\framework\src\Illuminate\Support\Str.php on line 1271
+
+Deprecated: Illuminate\Support\Str::freezeUuids(): Implicitly marking parameter $callback as nullable is 
+deprecated, the explicit nullable type must be used instead in C:\Users\ADMIN\Downloads\earist_accreditation\vendor\laravel\framework\src\Illuminate\Support\Str.php on line 1316
+
+Deprecated: voku\helper\ASCII::to_ascii(): Implicitly marking parameter $replace_single_chars_only as nullable is deprecated, the explicit nullable type must be used instead in C:\Users\ADMIN\Downloads\earist_accreditation\vendor\voku\portable-ascii\src\voku\helper\ASCII.php on line 795
